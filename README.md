@@ -12,6 +12,6 @@
 ## Modo de uso
 Para definir para que email vai ser enviado modifique o arquivo `/root_bot/users.xlsx`
 ![img dos users](img/users.jpg)
-Após isso escreva sua menssagem no arquivo `/root_bot/menssagem.html` e execute o `main.py' para fazer os envios
+Após isso escreva sua menssagem no arquivo `/root_bot/menssagem.html` e execute o `main.py` para fazer os envios
 ### ScreenShot
 ![Imagem do ps1](img/app.jpg)
